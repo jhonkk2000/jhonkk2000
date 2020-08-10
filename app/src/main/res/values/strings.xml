@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AppFinal</string>
+    <string name="bienvenido">Bienvenido,</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="register">Registrarse</string>
+    <string name="reg1">Ya estas registrado?</string>
+    <string name="reg2">No estas registrado?</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="regc">Registrate para continiuar</string>
+    <string name="logc">Inicia Sesion para continuar</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Publicaciones</string>
+    <string name="title_notifications">Perfil</string>
 </resources>

@@ -26,6 +26,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkk2000&layout=compact)](https://github.com/jhonkk2000)
 
+## Projects
+
+##### [AnimeInfo Server (Last version branch "v2")](https://github.com/jhonkk2000/apiAnime)
+##### [AnimeInfo AndroidApp (Kotlin) (Last version branch "v1.6")](https://github.com/jhonkk2000/animeapp2)
+##### [AnimeShow AndroidApp (Java) (Something like the first version of AnimeInfo)](https://github.com/jhonkk2000/animeapp)
+##### [AnimeInfoWeb (React)](https://github.com/jhonkk2000/animeinfo_web)
+##### [AnimeInfoWeb Admin (Flutter)](https://github.com/jhonkk2000/upload_videos)
+##### [App for Chat Online with Firebase Realtime](https://github.com/jhonkk2000/appchat)
+##### [Some Flutter designs Mobile (In Master branch)](https://github.com/jhonkk2000/flutterTraining)
+
 # Anime Info!
 <img src="https://user-images.githubusercontent.com/59482791/214946609-a24cf4f1-64fb-4c60-be5e-cbad8af37998.png" alt="icon" style="width:180px; "/> <img src="https://user-images.githubusercontent.com/59482791/214948716-38cad1fc-2521-4b68-afd0-d1c9541f4ecd.png" alt="drawing" style="width:600px; "/>
 
